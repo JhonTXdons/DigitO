@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292787673586",
+    "firebase_url": "https://digitov2-52f28.firebaseio.com",
+    "project_id": "digitov2-52f28",
+    "storage_bucket": "digitov2-52f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292787673586:android:96dfc31bf073c0566cb36b",
+        "android_client_info": {
+          "package_name": "com.example.digitov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292787673586-qc677jith887acnhcfi3vuh0pf9r6tu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqRl3uSUiP8tkDyFKVysvPzcgQJX0eBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292787673586-qc677jith887acnhcfi3vuh0pf9r6tu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
